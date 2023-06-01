@@ -1,0 +1,4 @@
+---
+applications:
+- name: golang-api-example
+  command: golang-api-example
